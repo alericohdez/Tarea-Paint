@@ -17,7 +17,7 @@ Aplicación de dibujo vectorial desarrollada en Java aplicando el patrón arquit
 ## Tecnologías y Arquitectura
 
 * **Lenguaje:** Java
-* **Interfaz Gráfica:** Java Swing / AWT
+* **Interfaz Gráfica:** Java Swing
 * **Base de Datos:** MySQL
 * **Conectividad:** JDBC (Java Database Connectivity)
 * **Arquitectura:** Patrón de diseño MVC (Modelo-Vista-Controlador) para la separación estricta de la lógica de negocio, la interfaz gráfica y la gestión de eventos de usuario.
